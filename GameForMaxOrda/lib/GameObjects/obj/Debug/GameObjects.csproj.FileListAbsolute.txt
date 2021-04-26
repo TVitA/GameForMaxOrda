@@ -1,0 +1,10 @@
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\bin\Debug\GameObjects.dll
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\bin\Debug\GameObjects.pdb
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\bin\Debug\OpenTK.dll
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\bin\Debug\OpenTK.pdb
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\bin\Debug\OpenTK.xml
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\obj\Debug\GameObjects.csprojAssemblyReference.cache
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\obj\Debug\GameObjects.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\obj\Debug\GameObjects.csproj.CopyComplete
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\obj\Debug\GameObjects.dll
+C:\Users\Titan\Desktop\GameForMaxOrda\lib\GameObjects\obj\Debug\GameObjects.pdb

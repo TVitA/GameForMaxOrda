@@ -1,0 +1,10 @@
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\bin\Debug\OpenTK.dll
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\bin\Debug\OpenTK.pdb
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\bin\Debug\OpenTK.xml
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+C:\Users\Titan\Desktop\GameForMaxOrda\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
